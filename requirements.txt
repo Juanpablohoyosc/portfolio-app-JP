@@ -1,8 +1,8 @@
-numpy==1.26.4
-pandas==2.1.4
-scipy==1.11.4
-plotly==5.18.0
-streamlit==1.30.0
-yfinance==0.2.36
-statsmodels==0.14.1
-pyarrow==14.0.2
+numpy>=1.24,<2.0
+pandas>=2.0
+scipy>=1.10
+plotly>=5.0
+streamlit>=1.28
+yfinance>=1.0
+statsmodels>=0.14
+pyarrow>=12.0
